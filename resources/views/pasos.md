@@ -1,0 +1,18 @@
+-resources
+--views
+---layouts
+----default.blade.php
+---pages
+-----home.blade.php
+-----contact.blade.php
+-----info.blade.php
+-----habeas.blase.php
+---includes
+-----head.blade.php(meta, SEO )
+-----header.blade.php
+-----footer.php
+---components (todavia no)
+-----empleados
+------list.empleado.blade.php
+------single.empleado.blade.php
+------edit.empleado.blade.php
